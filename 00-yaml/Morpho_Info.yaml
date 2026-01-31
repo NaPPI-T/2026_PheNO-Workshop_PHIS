@@ -1,0 +1,8 @@
+#COMPACTNESS: ShootSystem_Compactness
+#3D Leaf Area mm^2: Canopy_LeafArea_mm2
+#Digital Biomass mm^3: ShootSystem_DigitalBiomass_mm3
+#GLI Average: Canopy_GreenLeafIndex
+#NDVI Average: Canopy_NDVI
+Plant Height Averaged mm: ShootSystem_Height_mm
+
+
