@@ -1,3 +1,0 @@
-Water Level:
-  Levels: ['WHC80%', 'WHC70%', 'WHC40%']
-  Description: 'The soil water level has been defined as the percentage of its water-holding capacity, calculated based on the soil weight'
