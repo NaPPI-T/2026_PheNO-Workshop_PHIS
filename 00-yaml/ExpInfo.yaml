@@ -10,3 +10,11 @@ technical_supervisors:
 groups: ['PheNO Team']
 Is_Public: FALSE
 RDF Type: ['Plant']
+
+# Facility extra info
+growth facility: ABVH0608
+imaging facility: ABVH0619
+
+# Data extra info
+software: HortControl 3.14
+datatype: Mesh
